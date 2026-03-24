@@ -19,7 +19,7 @@ pip install emoji
 Depois execute:
 
 ```
-python jokenpo.py
+python main.py
 ```
 
 ## 📚 Sobre o projeto
