@@ -24,4 +24,4 @@ python jokenpo.py
 
 ## 📚 Sobre o projeto
 
-Projeto criado para praticar **lógica de programação, condicionais e interação com o usuário em Python**.
+Projeto criado para praticar **lógica de programação, condicionais e interação com o usuário em Python**. 
